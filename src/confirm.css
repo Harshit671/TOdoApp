@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+h2 {
+    display: inline-block;
+    margin: 10px 0px 10px 0px;
+  
+  }
+  .confirm_div{
+    border: 2px solid black;
+    padding : 0px 20px 0px 20px;
+    border-radius: 5px;
+  }
+  #confirm_div{
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      
+  }
+  span{
+      font-size: 20px;
+      font-family: Helvetica, Arial, sans-serif;
+  }
+  
